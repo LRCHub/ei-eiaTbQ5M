@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Set The Tone",
+  "base_artist": "aespa",
+  "createdAt": "2026-02-11T06:18:49.004450Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Set the Tone",
+      "artist": "Logic",
+      "has_synced": false,
+      "path": "select/01_Set_the_Tone_Logic.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Set The Tone",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/02_Set_The_Tone_aespa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Set The Tone",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/03_Set_The_Tone_aespa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "set the tone",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/04_set_the_tone_aespa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Set the Tone",
+      "artist": "Hitkidd, Aleza, Gloss Up, GloRilla, Slimeroni & K Carbon",
+      "has_synced": false,
+      "path": "select/05_Set_the_Tone_Hitkidd,_Aleza,_Gloss_Up,_GloRilla,_Slimeroni_&_K_Carbon.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Set the Tone",
+      "artist": "Hitkidd, Aleza, Gloss Up, GloRilla, Slimeroni",
+      "has_synced": false,
+      "path": "select/06_Set_the_Tone_Hitkidd,_Aleza,_Gloss_Up,_GloRilla,_Slimeroni.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Set The Tone",
+      "artist": "Hitkidd",
+      "has_synced": false,
+      "path": "select/07_Set_The_Tone_Hitkidd.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "set the tone",
+      "artist": "nate james",
+      "has_synced": false,
+      "path": "select/08_set_the_tone_nate_james.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Set The Tone",
+      "artist": "Feather",
+      "has_synced": true,
+      "path": "select/09_Set_The_Tone_Feather.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Set The Tone (셋더톤)",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/10_Set_The_Tone_(셋더톤)_aespa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Set The Tone",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/11_Set_The_Tone_aespa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Set The Tone",
+      "artist": "Elisa",
+      "has_synced": true,
+      "path": "select/12_Set_The_Tone_Elisa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Set the Tone",
+      "artist": "Hitkidd",
+      "has_synced": false,
+      "path": "select/13_Set_the_Tone_Hitkidd.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Set The Tone",
+      "artist": "Elisa",
+      "has_synced": true,
+      "path": "select/14_Set_The_Tone_Elisa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Set the Tone",
+      "artist": "Stuck Mojo",
+      "has_synced": false,
+      "path": "select/15_Set_the_Tone_Stuck_Mojo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Set The Tone",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Set_The_Tone_aespa.txt"
+    }
+  ]
+}
